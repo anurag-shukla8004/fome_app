@@ -52,11 +52,11 @@ function SignIn() {
           </div>
           <div></div>
         </div>
-        <div className="flex flex-col justify-center items-center w-3/5 h-full bg-[#1C4532]">
+        <div className=" hidden sm:flex flex-col justify-center items-center w-3/5 h-full bg-[#1C4532]">
           <img
             src="https://png.pngtree.com/background/20230617/original/pngtree-green-geometric-shapes-in-abstract-composition-a-3d-rendering-picture-image_3707457.jpg"
             alt=""
-            className="w-full h-screen"
+            className="w-full h-screen object-cover"
           />
         </div>
       </div>
